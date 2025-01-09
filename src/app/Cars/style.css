@@ -1,0 +1,19 @@
+.parent1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent1 .container1 {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+.parent1 .container1 div {
+    text-align: center;
+    margin: 0% 3%;
+}
