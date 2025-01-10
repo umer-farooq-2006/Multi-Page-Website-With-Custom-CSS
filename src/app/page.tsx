@@ -1,4 +1,3 @@
-import Link from "next/link";
 import React from "react";
 import "./style.css";
 import Header from "./Components/Header/page";
